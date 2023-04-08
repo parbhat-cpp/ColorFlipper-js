@@ -1,0 +1,14 @@
+body{
+  padding: 10px;
+  background-color: #f0e2e1;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+}
+
+#drop-hex,#drop-rgb,#drop-hsl{
+  
+}
